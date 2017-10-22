@@ -8,7 +8,7 @@ Created on Mon Oct  9 16:14:52 2017
 ''' 
 Apply what was taught during Machine Learning Online Class on Coursera. 
 Use a Neural Network on multi-class classification problem: Recognize 
-handwritten digits from 0 to 9. Try different values fr regularization and
+handwritten digits from 0 to 9. Try different values for regularization and
 size of hidden layer. Attempt to improve performance by creating
 more training samples from the given sample set using rotation of the digits
 and Gaussian blurring.
